@@ -1,0 +1,17 @@
+{
+    "name": "andry/test_task_for_oxem_studio",
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dzoter",
+            "email": "Dzotshaman@yandex.ru"
+
+
+        }
+    ],
+    "require": {}
+}
